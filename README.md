@@ -1,12 +1,8 @@
-# Scapy ile Ağların Derinliklerine Yolculuk: Kapsamlı Bir Kali Linux Rehberi
+# Scapy ile Ağların Derinliklerine Yolculuk
 
 ![Scapy Logo](scapy.jpg) <!-- Resmi Scapy logosunu veya uygun bir görseli buraya ekleyebilirsiniz -->
 
 Bu rehber, Python tabanlı güçlü paket manipülasyon aracı Scapy'yi Kali Linux üzerinde kullanarak, ağ paketlerini nasıl oluşturacağınızı, göndereceğinizi, yakalayacağınızı, analiz edeceğinizi ve çeşitli ağ senaryolarını nasıl uygulayacağınızı sıfırdan ileri seviyeye kadar öğretmeyi amaçlamaktadır.
-
-**Yazar:** [Adınız/Takma Adınız]
-**GitHub:** [GitHub Profil Linkiniz]
-**Son Güncelleme:** [Tarih]
 
 ---
 
